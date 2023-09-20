@@ -1,3 +1,3 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(<[notebook_url](https://colab.research.google.com/drive/1onuOXTPwHIfNAVKz2PJERWvxDQt6uGV3#scrollTo=e1a14e5f)>)
+![Open In DataCamp Workspace] (<[notebook_url](https://app.datacamp.com/workspace/w/657aa633-c108-4742-af7e-a7858ad69251/edit)>)
 
-[Click here to view the notebook in nbviewer](<[notebook_url](https://colab.research.google.com/drive/1onuOXTPwHIfNAVKz2PJERWvxDQt6uGV3#scrollTo=e1a14e5f)>)
+[Click here to view the notebook in nbviewer](<[notebook_url](https://app.datacamp.com/workspace/w/657aa633-c108-4742-af7e-a7858ad69251/edit)>)
